@@ -1,0 +1,17 @@
+{
+  "name": "burger_app",
+  "version": "1.0.0",
+  "description": "An application for appreciating a fine burger. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ysdra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}

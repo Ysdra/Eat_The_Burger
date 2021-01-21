@@ -1,0 +1,16 @@
+body {
+    background-image: url('../images/burger.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+    background-attachment: fixed;
+}
+
+.burger-list {
+    min-height: 450px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 5rem;
+}
