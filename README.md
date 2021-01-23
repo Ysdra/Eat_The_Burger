@@ -2,7 +2,7 @@
 
 ## Live Heroku Web Page: https://shrouded-eyrie-04547.herokuapp.com/
 
-## Application Live Page: ![Burger App}(https://github.com/Ysdra/Eat_The_Burger/blob/master/Burgers%20Screenshot.PNG)   
+## Application Live Page: ![Burger App](https://github.com/Ysdra/Eat_The_Burger/blob/master/Burgers%20Screenshot.PNG)   
 
 
 ## App Description:
